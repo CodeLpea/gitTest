@@ -16,5 +16,9 @@ public class ObjectOfbranch01 {
     private void change03(){
 
     }
+    /*这是lp的第3次修改*/
+    private void change05(){
+
+    }
 
 }
