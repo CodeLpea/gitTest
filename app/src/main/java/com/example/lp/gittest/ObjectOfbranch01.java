@@ -4,5 +4,9 @@ package com.example.lp.gittest;
 *
 * */
 public class ObjectOfbranch01 {
+    /*这是第二位对branch的第一次修改*/
+    private void change02(){
+
+    }
 
 }
