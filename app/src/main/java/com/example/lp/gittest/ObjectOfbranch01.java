@@ -12,5 +12,9 @@ public class ObjectOfbranch01 {
     private void change01(){
 
     }
+    /*这是codeboy01的02修改*/
+    private void change04(){
+
+    }
 
 }
